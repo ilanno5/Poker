@@ -1,0 +1,9 @@
+﻿  Card.cpp
+  CardHolder.cpp
+  Game.cpp
+  Player.cpp
+  Poker.cpp
+  PokerTable.cpp
+  StateGame.cpp
+  Generating Code...
+  PokerNew.vcxproj -> C:\Dev\CppSeries\PokerNew\x64\Debug\PokerNew.exe
